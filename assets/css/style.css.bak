@@ -1,0 +1,132 @@
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 300;
+}
+body,a {
+	font-family: 'Roboto', sans-serif;
+	font-size:15px;
+	line-height:1.7;
+	color:#000;
+	font-weight:300;
+	text-decoration:none;
+}
+a:hover { text-decoration: none; }
+
+.header-top-area {
+    background-color: #;
+    background-color: #218ae6;
+    padding: 10px 0;
+}
+.header-top-area, .header-top-area a {
+    color: #fff;
+}
+
+.header-top-area .text-right i.fa {
+    padding-left: 20px;
+}
+.header-area ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.header-area li {
+    display: inline-block;
+}
+
+.header-area li a {
+    color: #333;
+    display: blocl;
+    display: block;
+    padding: 20px;
+    text-transform: uppercase;
+    padding-right: 0;
+	font-weight: 400;
+}
+.header-area h3 {
+    margin: 10px 0;
+   }
+.header-area h3 a {
+	font-weight: 700;
+    font-size: 25px;
+    line-height: 1.5;
+ }
+.header-area li a:hover{
+		color:#65a5ec;
+	}
+.home-page-slides {
+    background: #218ae6;
+    color: #fff;
+    font-size: 16px;
+}
+.home-page-slides h2 {
+    font-size: 50px;
+}
+a.service-btn {
+    background: #f9cf25;
+    display: inline-block;
+    padding: 8px 20px;
+    font-size: 15px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.single-home-page-slide {
+    padding: 150px 0;
+}
+.single-home-page-slide {
+    padding: 150px 0;
+}
+.home-page-slides .owl-dots div {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    background: #fff;
+    border-radius: 50%;
+     margin: 0 3px;
+}
+.home-page-slides .owl-dots {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+ }
+.home-page-slides .owl-dots div.active{
+	background:#f9cf25;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

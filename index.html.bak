@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Pract 21</title>
+		
+		<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900" rel="stylesheet"> 
+		
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+       	<link rel="stylesheet" href="assets/css/owl.carousel.css" media="all">
+  
+        <link href="assets/css/style.css" rel="stylesheet">
+        <link href="assets/css/responsive.css" rel="stylesheet">
+        
+    </head>
+    <body>
+        <div class="header-top-area">
+			<div class="container">
+				<div class="row ">
+					<div class="col-md-5">
+						We are top SEO Company
+					</div>
+					<div class="col-md-7 text-right">
+						<a href="#"><i class="fa fa-envelope"></i>      test@gmail.com</a>
+						<i class="fa fa-phone"></i> 999-44-20044
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<h3><a href="">Ranking</a></h3>
+					</div>
+					<div class="col-md-9 text-right">
+						<ul ="">
+							<li><a href="">Home</a></li>
+							<li><a href="">About</a></li>
+							<li><a href="">Services</a></li>
+							<li><a href="">Case studies</a></li>
+							<li><a href="">Pages</a></li>
+							<li><a href="">Blog </a></li>
+							<li><a href="">Contact</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="home-page-slides">
+			<div class="single-home-page-slide">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-7">
+							<h2>We offer seo for our<br/> local business</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel odio vel felis placerat pharetra ut vitae flentesque vel odio vel felis placerat pharetra ut vitae flentesque.</p>
+							<a class="service-btn" href="">service <i class="fa fa-long-arrow-right"></i></a>
+						
+						
+						</div>
+						<div class="col-md-5 text-right">
+							
+							<img src="http://placehold.it/600x400" alt="" />
+						
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<div class="single-home-page-slide">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-7">
+							<h2>We offer seo for our<br/> local business</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel odio vel felis placerat pharetra ut vitae felis</p>
+							<a href="">service <i class="fa fa-long-arrow-right"></i></a>
+						
+						
+						</div>
+						<div class="col-md-5 text-right">
+							
+							<img src="http://placehold.it/600X400" alt="" />
+						
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<div class="single-home-page-slide">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-7">
+							<h2>We offer seo for our<br/> local business</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel odio vel felis placerat pharetra ut vitae felis</p>
+							<a href="">service <i class="fa fa-long-arrow-right"></i></a>
+						
+						
+						</div>
+						<div class="col-md-5 text-right">
+							
+							<img src="http://placehold.it/600X400" alt="" />
+						
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
+      
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
